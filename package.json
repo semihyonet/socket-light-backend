@@ -8,6 +8,9 @@
 		"build": "bower install && grunt build",
 		"start": "nf start"
 	},
+	"engines": {
+		"node": "10.x"
+	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
